@@ -1,0 +1,2 @@
+# P3---Validation-Algorithm
+Desarrollar el código para un algoritmo que consiste en lo siguiente: El algoritmo debe verificar que un arreglo de números proporcionado cumpla con los requisitos del algoritmo El algoritmo recibe un arreglo de números para comenzar El arreglo tendrá la forma (ejemplo): 1, 1, 1, 1, 1, 1, 1, 7 Al inicio del arreglo, debe haber una serie de 1s Al terminar la secuencia de 1s, debe haber un número que sea igual a la cantidad de 1s presente. El algoritmo debe indicar si la secuencia de números en el arreglo es correcta o incorrecta.
